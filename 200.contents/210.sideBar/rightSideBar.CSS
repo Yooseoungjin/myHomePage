@@ -9,7 +9,7 @@ input[id="rightMenuIcon"] + label {
   position: fixed;
   cursor: pointer;
   right: 0;
-  top: 150px;
+  top: 110px;
   transition: all 0.35s;
 }
 input[id="rightMenuIcon"] + label span {
