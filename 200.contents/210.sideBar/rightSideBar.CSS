@@ -1,3 +1,14 @@
+input[name="today"] {
+  width: 50%;
+}
+
+#mouseXY {
+  margin: 5px 5px 5px 5px;
+  text-align: center;
+  font-size: x-small;
+  border: 1px solid black;
+  background-color: white;
+}
 input[id="rightMenuIcon"] {
   display: none; /* 삼선박스 숨기기 */
 }

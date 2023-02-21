@@ -25,6 +25,9 @@ section div button {
   width: 80px;
 }
 #loginBtn {
+  width: 100px;
+  height: 30px;
+  font-family: fantasy;
   margin-left: 20px;
   background-color: white;
   border: 2px;
